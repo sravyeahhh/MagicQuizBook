@@ -17,7 +17,8 @@ An interactive 3D "magical book" built with HTML, CSS, and JavaScript that quizz
 
 If you'd like to see a live version, check out the deployed site on Netlify/GitHub Pages/Vercel (example link):
 
-[Magical Book Quiz Live Demo](https://example-url-here.com)
+[Magical Book Quiz Live Demo]
+https://magic-quiz-book.vercel.app/
 
 ---
 
